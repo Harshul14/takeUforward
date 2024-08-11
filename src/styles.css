@@ -1,0 +1,165 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.App {
+    text-align: center;
+    padding: 20px;
+}
+
+.banner {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.banner p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.banner a {
+    color: #ffd700;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.banner a:hover {
+    text-decoration: underline;
+}
+
+.dashboard {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard h2 {
+    margin-bottom: 20px;
+}
+
+.dashboard div {
+    margin-bottom: 10px;
+}
+
+.dashboard label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.dashboard input[type="text"],
+.dashboard input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.dashboard input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.dashboard button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.dashboard button:hover {
+    background-color: #45a049;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.App {
+    text-align: center;
+    padding: 20px;
+}
+
+.banner {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.banner p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.banner a {
+    color: #ffd700;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.banner a:hover {
+    text-decoration: underline;
+}
+
+.dashboard {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard h2 {
+    margin-bottom: 20px;
+}
+
+.dashboard div {
+    margin-bottom: 10px;
+}
+
+.dashboard label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.dashboard input[type="text"],
+.dashboard input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.dashboard input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.dashboard button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.dashboard button:hover {
+    background-color: #45a049;
+}
